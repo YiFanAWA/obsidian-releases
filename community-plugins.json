@@ -34655,5 +34655,12 @@
     "author": "Augmentable LLC",
     "description": "Sync Obsidian notes, research folders, and images with TPSReport AI Brain & Knowledge Management. Requires a HiFi-WP account. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "augmentableai/tpsreport-obsidian-sync"
+  },
+  {
+    "id": "ai-memory-bridge",
+    "name": "AI Memory Bridge",
+    "author": "YiFanAWA",
+    "description": "Connect Obsidian notes as AI memory for Claude Code via MCP. Drag-drop panel, TF-IDF search, bidirectional read/write.",
+    "repo": "YiFanAWA/ai-memory-bridge"
   }
 ]
